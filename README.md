@@ -1,5 +1,5 @@
 # Juwon Kim
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/selfi.jpg)
 Format: ![Alt Text](url)
 # Where are you from?
 # IT Background
