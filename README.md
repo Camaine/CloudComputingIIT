@@ -9,3 +9,4 @@ My speciality is Unity Development and Linux System Programming
 Playing video games<br>
 Playing pingpong & bowling
 # Git Tutorial
+![Git Badge](/ITMO-444/Week1/Image/Badge.png)
