@@ -1,5 +1,5 @@
 # Juwon Kim
-![In Austria](/Image/Selfi.jpg)
+![Get Steams](/ITMO-444/Week1/Image/Meme1.jpg)
 # Where are you from?
 From South Korea
 # IT Background
