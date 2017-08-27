@@ -1,5 +1,5 @@
 # Juwon Kim
-![In Austria](/image/selfi.jpg)
+![In Austria](/Image/Selfi.jpg)
 # Where are you from?
 # IT Background
 # Something interesting about you
